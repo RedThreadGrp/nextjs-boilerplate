@@ -113,8 +113,17 @@ export default function HomePage() {
       </section>
 
       <footer className="footer">
-        <p>© {new Date().getFullYear()} Cost of Care Project. All rights reserved.</p>
-      </footer>
+  <p>© {new Date().getFullYear()} Cost of Care Project. All rights reserved.</p>
+  <p>A 501(c)(3) nonprofit organization. EIN: 39-4640897</p>
+  <p>Incorporated in Oregon · State Entity ID: 247363492</p>
+  <p>
+    Contact:{" "}
+    <a href="mailto:info@costofcareproject.org">
+      info@costofcareproject.org
+    </a>
+  </p>
+</footer>
+
     </main>
   );
 }
