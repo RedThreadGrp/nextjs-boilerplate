@@ -102,6 +102,13 @@ export default function HomePage() {
           public reporting on healthcare pricing and claims integrity.
         </p>
         <p className="section-body">
+            For more detail, see our{" "}
+          <a href="/research" className="btn-link">
+          Research & Publications
+    </a>{" "}
+  page.
+        </p>
+        <p className="section-body">
           To request our full funders packet or discuss collaboration:
         </p>
         <p className="contact">
