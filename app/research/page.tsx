@@ -29,7 +29,7 @@ export default function ResearchPage() {
           <p className="section-body">
             Examines how Administrative Services Only (ASO) agreements and plan
             documents structure medical claim pricing and adjudication. Identifies
-            systemic transparency gaps in repricing methodologies, SPD–ASA
+            systemic transparency gaps in repricing methodologies, SPD -> ASA
             alignment, and discretionary claim handling, and outlines public-interest
             implications for families, unions, and employer-sponsored plans.
           </p>
@@ -68,7 +68,7 @@ export default function ResearchPage() {
           </p>
           <ul className="list">
             <li>Algorithmic claim edits and automated denials</li>
-            <li>SPD–algorithm misalignment and fiduciary exposure</li>
+            <li>SPD & algorithm misalignment and fiduciary exposure</li>
             <li>Policy recommendations for transparency and auditability</li>
           </ul>
           <p className="research-actions">
