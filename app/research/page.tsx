@@ -16,21 +16,22 @@ export default function ResearchPage() {
 
       <section className="section">
         <h2 className="section-title">Current Research Briefs</h2>
+
+        {/* Brief 1 */}
         <div className="research-card">
           <h3 className="research-title">
             ASO Agreements and the Hidden Architecture of Medical Claim Pricing:
             A Transparency Failure
           </h3>
           <p className="research-meta">
-            Research Brief &middot; January 2025 &middot; Cost of Care Project
+            Research Brief · January 2025 · Cost of Care Project
           </p>
           <p className="section-body">
-            This brief examines how Administrative Services Only (ASO)
-            agreements and related plan documents structure medical claim
-            pricing and adjudication. It identifies systemic transparency gaps
-            in repricing methodologies, SPD–ASA alignment, and discretionary
-            claim handling, and outlines public-interest implications for
-            families, unions, and employer-sponsored plans.
+            Examines how Administrative Services Only (ASO) agreements and plan
+            documents structure medical claim pricing and adjudication. Identifies
+            systemic transparency gaps in repricing methodologies, SPD–ASA
+            alignment, and discretionary claim handling, and outlines public-interest
+            implications for families, unions, and employer-sponsored plans.
           </p>
           <ul className="list">
             <li>ASO transparency and fiduciary oversight</li>
@@ -48,6 +49,39 @@ export default function ResearchPage() {
             </a>
           </p>
         </div>
+
+        {/* Brief 2 */}
+        <div className="research-card">
+          <h3 className="research-title">
+            Algorithmic Claim Reductions & Automated Denials in Employer Health
+            Plans: A Public-Interest Review
+          </h3>
+          <p className="research-meta">
+            Research Brief · January 2025 · Cost of Care Project
+          </p>
+          <p className="section-body">
+            Analyzes how automated edits, clinical logic engines, and AI-enhanced
+            payment integrity tools influence coverage determinations, reductions,
+            and denials inside employer health plans. Highlights fiduciary risk,
+            false-positive patterns, and the absence of meaningful audit rights for
+            employers and participants.
+          </p>
+          <ul className="list">
+            <li>Algorithmic claim edits and automated denials</li>
+            <li>SPD–algorithm misalignment and fiduciary exposure</li>
+            <li>Policy recommendations for transparency and auditability</li>
+          </ul>
+          <p className="research-actions">
+            <a
+              href="/Cost_of_Care_AI_Claims_Adjudication_Brief.pdf"
+              className="btn-link"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Download full brief (PDF)
+            </a>
+          </p>
+        </div>
       </section>
 
       <section className="section">
@@ -55,8 +89,8 @@ export default function ResearchPage() {
         <p className="section-body">
           Cost of Care Project welcomes collaboration with employer coalitions,
           unions, researchers, policymakers, and transparency organizations
-          interested in healthcare pricing, claims adjudication integrity, and
-          ASO agreement analysis.
+          interested in healthcare pricing, claims adjudication integrity, and ASO
+          agreement analysis.
         </p>
         <p className="section-body">
           To discuss research partnerships, co-publication opportunities, or
