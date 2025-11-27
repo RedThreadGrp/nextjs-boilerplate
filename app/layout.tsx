@@ -16,6 +16,10 @@ export const metadata = {
   title: "Cost of Care Project",
   description:
     "Independent research on healthcare pricing, claims integrity, and ASO transparency.",
+  icons: {
+    icon: "/favicon.ico",
+    apple: "/apple-touch-icon.png",
+  },
 };
 
 export default function RootLayout({
