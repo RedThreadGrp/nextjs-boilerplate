@@ -127,3 +127,45 @@ body {
 .footer p {
   margin: 0.25rem 0;
 }
+.hero--small {
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+}
+
+.research-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 0.75rem;
+  padding: 1.5rem;
+  background: #ffffff;
+  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
+  margin-top: 0.75rem;
+}
+
+.research-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 0.35rem;
+  color: var(--coc-primary);
+}
+
+.research-meta {
+  font-size: 0.9rem;
+  color: var(--coc-muted);
+  margin-bottom: 0.75rem;
+}
+
+.research-actions {
+  margin-top: 0.75rem;
+}
+
+.btn-link {
+  font-size: 0.95rem;
+  font-weight: 500;
+  text-decoration: none;
+  padding-bottom: 0.05rem;
+  border-bottom: 1px solid rgba(27, 58, 77, 0.5);
+}
+
+.btn-link:hover {
+  border-bottom-color: var(--coc-primary);
+}
