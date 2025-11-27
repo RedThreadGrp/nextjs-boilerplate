@@ -24,7 +24,7 @@ export default function ResearchPage() {
             A Transparency Failure
           </h3>
           <p className="research-meta">
-            Research Brief · January 2025 · Cost of Care Project
+            Research Brief · July 2025 · Cost of Care Project
           </p>
           <p className="section-body">
             Examines how Administrative Services Only (ASO) agreements and plan
@@ -57,7 +57,7 @@ export default function ResearchPage() {
             Plans: A Public-Interest Review
           </h3>
           <p className="research-meta">
-            Research Brief · January 2025 · Cost of Care Project
+            Research Brief · September 2025 · Cost of Care Project
           </p>
           <p className="section-body">
             Analyzes how automated edits, clinical logic engines, and AI-enhanced
