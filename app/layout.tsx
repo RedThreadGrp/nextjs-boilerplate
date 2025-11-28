@@ -34,9 +34,6 @@ export default function RootLayout({
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
         <header className="site-header">
           <div className="site-header-inner">
-            <Link href="/" className="site-logo">
-              Cost of Care Project
-            </Link>
 
             <nav className="site-nav">
               <Link href="/" className="site-nav-link">
